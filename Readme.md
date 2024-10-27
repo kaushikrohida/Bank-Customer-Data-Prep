@@ -71,8 +71,6 @@ Our analysis follows these key steps:
 
 ## Key Findings
 
-(Note: Replace these placeholder findings with your actual results)
-
 - Customer tenure is inversely correlated with churn probability
 - Account balance shows a negative relationship with churn likelihood
 - The number of products held by a customer impacts their propensity to churn
